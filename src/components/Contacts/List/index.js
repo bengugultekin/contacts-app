@@ -14,7 +14,6 @@ function List({ contacts }) {
     );
   });
 
-  console.log(filtered);
   return (
     <div>
       {/* Filter input */}

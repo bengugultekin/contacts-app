@@ -21,7 +21,7 @@ function Contacts() {
   ]);
 
   useEffect(() => {
-    console.log(contacts);
+    // console.log(contacts);
   }, [contacts]);
   return (
     <div id="container">
